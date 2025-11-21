@@ -77,7 +77,7 @@ fun_fact: I debug with coffee and determination ☕🔧
 <div align="center">
 
 <a href="https://github.com/Woun-dex/banking-microservices">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Woun-dex&repo=banking-microservices&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Woun-dex&repo=banking_microservices&theme=tokyonight&hide_border=true&border_radius=15" />
 </a>
 
 
@@ -151,7 +151,7 @@ Event-driven architecture for modern banking
 
 <div align="center">
 
-### 💭 Random Dev Quote
+### 💭
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
