@@ -76,7 +76,7 @@ fun_fact: I debug with coffee and determination ☕🔧
 
 <div align="center">
 
-<a href="https://github.com/Woun-dex/banking-microservices">
+<a href="https://github.com/Woun-dex/banking_microservices">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Woun-dex&repo=banking_microservices&theme=tokyonight&hide_border=true&border_radius=15" />
 </a>
 
