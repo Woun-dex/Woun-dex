@@ -100,15 +100,7 @@ Creativity flows beyond code. I express myself through digital art and visual ex
 
 </div>
 
-<br>
 
-## 🧭 How I Navigate Learning
-
-| 🔨 Build to Learn | 🤔 Ask Questions | 🔄 Iterate Often |
-|:---:|:---:|:---:|
-| I understand concepts better when I build something with them. Theory alone isn't enough. | I'm not afraid to admit what I don't know. Every question is an opportunity. | First attempts are rarely perfect. I embrace iteration and improve with each try. |
-
-<br>
 
 ## 📊 Flight Statistics
 
