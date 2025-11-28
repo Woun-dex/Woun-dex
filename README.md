@@ -1,151 +1,133 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25&height=250&section=header&text=Explorer%20of%20the%20Code%20Universe&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Engineering%20Student%20%E2%80%A2%20Navigating%20the%20Cosmos%20of%20Technology&descSize=16&descAlignY=60)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,15,30&height=220&section=header&text=WALID&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Distributed%20Systems%20%7C%20Creative%20Technologist&descSize=18&descAlignY=65)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Software+Systems+Explorer+%F0%9F%9A%80;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A7%A0;Digital+Artist+%26+Creator+%F0%9F%8E%A8;Always+Learning%2C+Always+Iterating+%F0%9F%94%84)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Microservices;Exploring+Artificial+Intelligence;Designing+Digital+Experiences;Engineering+Robust+Solutions)](https://git.io/typing-svg)
 
 <br>
 
 <a href="https://github.com/Woun-dex">
-  <img src="https://img.shields.io/badge/📍_Location-Casablanca,_Morocco-2e1065?style=for-the-badge&logo=google-maps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/📍_Based_In-Casablanca,_Morocco-2e1065?style=for-the-badge&logo=google-maps&logoColor=white"/>
 </a>
 <a href="https://github.com/Woun-dex">
-  <img src="https://img.shields.io/badge/🎓_Status-Engineering_Student-2e1065?style=for-the-badge&logo=academy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🎓_Role-Engineering_Student-2e1065?style=for-the-badge&logo=academy&logoColor=white"/>
+</a>
+<a href="https://woundex.dev">
+  <img src="https://img.shields.io/badge/🌐_Website-woundex.dev-2e1065?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 </div>
 
 <br>
 
-## 🌌 Mission Log (About Me)
+## 👨‍💻 Professional Summary
 
-> **"I don't claim to be an expert—just a curious explorer charting new territories."**
+I am an engineering student with a dual focus on **backend architecture** and **computational intelligence**. My passion lies in bridging the gap between complex distributed systems and user-centric design. 
 
-I'm an engineering student who's always eager to learn something new. I love diving into complex topics like **distributed systems** and **machine learning**—not as an expert, but as someone genuinely curious about how things work. 
-
-I build projects to understand concepts better, experiment with new technologies, and find creative solutions to problems. When I'm not coding, you'll find me creating digital art or exploring new creative tools.
-
-<div align="center">
-  📖 <b>Eager to Learn</b> &nbsp;&nbsp;|&nbsp;&nbsp; 💡 <b>Problem Solver</b> &nbsp;&nbsp;|&nbsp;&nbsp; ✨ <b>Curious Explorer</b>
-</div>
+Unlike a traditional specialist, I adopt a **generalist-craftsman approach**: I build systems from the ground up to understand the "how" and "why" behind every abstraction. Whether it's orchestrating microservices, training neural networks, or rendering 3D scenes, I am driven by technical curiosity and a commitment to engineering excellence.
 
 <br>
 
-## 🔭 My Learning Galaxies
-
-I am currently navigating two vast universes of technology. Here is the tech stack I use to explore them:
+## 🛠️ Technical Proficiency
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
-      <h3>🪐 Galaxy 1: Software Systems</h3>
-      <p><i>Backend • Distributed Systems • Architecture</i></p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
-        <br>
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-        <br>
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-      </div>
+    <td align="center" width="33%">
+      <h4>Backend & Systems</h4>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
     </td>
-    <td align="center" width="50%">
-      <h3>🧠 Galaxy 2: AI & ML</h3>
-      <p><i>Deep Learning • Neural Networks • LLMs</i></p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-        <br>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-        <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-        <br>
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-      </div>
+    <td align="center" width="33%">
+      <h4>Data & AI</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+    </td>
+    <td align="center" width="33%">
+      <h4>Design & Creative</h4>
+      <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
     </td>
   </tr>
 </table>
 
 <br>
 
-## 🎨 The Creative Nebula
+## 🚀 Key Projects
 
-Creativity flows beyond code. I express myself through digital art and visual exploration using these tools:
+<table align="center" border="0">
+<tr>
+  <td width="60%" valign="top">
+    <h3><a href="https://github.com/Woun-dex/banking_microservices">🏦 Banking Microservices Ecosystem</a></h3>
+    <p>A comprehensive banking platform engineered with Event-Driven Architecture.</p>
+    <ul>
+      <li><b>Architecture:</b> Microservices with CQRS & Event Sourcing patterns.</li>
+      <li><b>Tech Stack:</b> Spring Boot, Apache Kafka, Keycloak, Angular.</li>
+      <li><b>Highlights:</b> Implemented distributed transactions using the Saga pattern and real-time event streaming for fraud detection.</li>
+    </ul>
+  </td>
+  <td width="40%" align="center">
+    <a href="https://github.com/Woun-dex/banking_microservices">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Woun-dex&repo=banking_microservices&theme=tokyonight&hide_border=true&border_radius=10" />
+    </a>
+  </td>
+</tr>
+</table>
+
+<br>
+
+## 📈 Engineering Analytics
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Woun-dex&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=1a1b27&title_color=A855F7&icon_color=A855F7" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Woun-dex&theme=tokyonight&hide_border=true&border_radius=10&background=1a1b27&ring=A855F7&fire=A855F7&currStreakNum=fff" />
 </div>
 
 <br>
 
-## 🚀 Featured Mission
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woun-dex&layout=compact&hide=HTML,Shell,CSS&theme=tokyonight&hide_border=true&border_radius=10&bg_color=1a1b27&title_color=A855F7" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Woun-dex/Woun-dex/output/github-contribution-grid-snake-dark.svg" alt="Contribution Graph" />
+</div>
+
+<br>
+
+## 📫 Connect
 
 <div align="center">
 
-<a href="https://github.com/Woun-dex/banking_microservices">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Woun-dex&repo=banking_microservices&theme=tokyonight&hide_border=true&border_radius=15" />
+<a href="mailto:walidelabad@gmail.com">
+  <img src="https://img.shields.io/badge/Email-walidelabad@gmail.com-2e1065?style=flat&logo=gmail&logoColor=white&labelColor=1a1b27" height="35"/>
+</a>
+<a href="https://linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5" height="35"/>
+</a>
+<a href="https://woundex.dev">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Site-FF5722?style=flat&logo=google-chrome&logoColor=white&labelColor=FF5722" height="35"/>
 </a>
 
-<p><b>🏦 Banking Microservices Platform</b><br>
-<i>Event-driven architecture for modern banking systems.</i></p>
+<br><br>
+
+<p align="center">
+  <i>"The best way to predict the future is to invent it."</i>
+</p>
 
 </div>
 
-<br>
-
-## 🧭 How I Navigate Learning
-
-| 🔨 Build to Learn | 🤔 Ask Questions | 🔄 Iterate Often |
-|:---:|:---:|:---:|
-| I understand concepts better when I build something with them. Theory alone isn't enough. | I'm not afraid to admit what I don't know. Every question is an opportunity. | First attempts are rarely perfect. I embrace iteration and improve with each try. |
-
-<br>
-
-## 📊 Flight Statistics
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Woun-dex&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=1a1b27" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Woun-dex&theme=tokyonight&hide_border=true&border_radius=15&background=1a1b27" />
-
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woun-dex&layout=compact&hide=HTML,Shell&theme=tokyonight&hide_border=true&border_radius=15&bg_color=1a1b27" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Woun-dex/Woun-dex/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<br>
-
-## 📡 Transmission / Contact
-
-<div align="center">
-
-*Ready to connect with fellow explorers and collaborate on new adventures?*
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:walidelabad@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://woundex.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-
-<br>
-<br>
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,15,30&height=100&section=footer)
