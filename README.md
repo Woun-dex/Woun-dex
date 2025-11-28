@@ -17,6 +17,29 @@
 
 <br>
 
+## 📊 Flight Telemetry
+
+<div align="center">
+
+<a href="https://github.com/Woun-dex">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Woun-dex&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" />
+</a>
+<a href="https://github.com/Woun-dex">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Woun-dex&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=A855F7&fire=A855F7&currStreakNum=fff" />
+</a>
+
+<br><br>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woun-dex&layout=compact&hide=HTML,Shell,CSS&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=A855F7" />
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Woun-dex/Woun-dex/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+
+</div>
+
+<br>
+
 ## 🌌 Mission Log (About Me)
 
 > **"I don't claim to be an expert—just a curious explorer charting new territories."**
@@ -92,33 +115,12 @@ Creativity flows beyond code. I express myself through digital art and visual ex
 <div align="center">
 
 <a href="https://github.com/Woun-dex/banking_microservices">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Woun-dex&repo=banking_microservices&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Woun-dex&repo=banking_microservices&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&icon_color=A855F7" />
 </a>
 
 <p><b>🏦 Banking Microservices Platform</b><br>
 <i>Event-driven architecture for modern banking systems.</i></p>
 
-</div>
-
-
-
-## 📊 Flight Statistics
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Woun-dex&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=1a1b27" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Woun-dex&theme=tokyonight&hide_border=true&border_radius=15&background=1a1b27" />
-
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woun-dex&layout=compact&hide=HTML,Shell&theme=tokyonight&hide_border=true&border_radius=15&bg_color=1a1b27" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Woun-dex/Woun-dex/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <br>
