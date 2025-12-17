@@ -118,8 +118,11 @@ Creativity flows beyond code. I express myself through digital art and visual ex
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Woun-dex&repo=banking_microservices&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&icon_color=A855F7" />
 </a>
 
-<p><b>🏦 Banking Microservices Platform</b><br>
-<i>Event-driven architecture for modern banking systems.</i></p>
+
+<a href="https://github.com/Woun-dex/banking_microservices">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Woun-dex&repo=Ticketing_System&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&icon_color=A855F7" />
+</a>
+
 
 </div>
 
