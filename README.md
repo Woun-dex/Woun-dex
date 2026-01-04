@@ -22,10 +22,10 @@
 <div align="center">
 
 <a href="https://github.com/Woun-dex">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Woun-dex&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Woun-dex&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" />
 </a>
 <a href="https://github.com/Woun-dex">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Woun-dex&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=A855F7&fire=A855F7&currStreakNum=fff" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Woun-dex&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=A855F7&fire=A855F7&currStreakNum=fff" />
 </a>
 
 <br><br>
