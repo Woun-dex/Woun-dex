@@ -95,38 +95,7 @@ I am currently navigating two vast universes of technology. Here is the tech sta
   </tr>
 </table>
 
-<br>
 
-## 🎨 The Creative Nebula
-
-Creativity flows beyond code. I express myself through digital art and visual exploration using these tools:
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</div>
-
-<br>
-
-## 🚀 Featured Mission
-
-<div align="center">
-
-<a href="https://github.com/Woun-dex/banking_microservices">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Woun-dex&repo=banking_microservices&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&icon_color=A855F7" />
-</a>
-
-
-<a href="https://github.com/Woun-dex/Ticketing_System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Woun-dex&repo=Ticketing_System&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&icon_color=A855F7" />
-</a>
-
-
-</div>
-
-<br>
 
 ## 📡 Transmission / Contact
 
