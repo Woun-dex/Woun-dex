@@ -1,37 +1,56 @@
 <div align="center">
 
-# Woundex  
-**Software Engineering Student · Backend & Systems**
+<h1>Woundex</h1>
+<p>Software Engineering Student · Backend & Systems</p>
 
-<br>
-
-> building systems, learning relentlessly
+<p><i>building systems, learning relentlessly</i></p>
 
 </div>
 
----
-
-## About
-
-I’m an engineering student focused on **backend development, distributed systems, and software architecture**.  
-I like building projects to understand how systems work under the hood.
+<br>
 
 ---
 
-## Tech Stack
+## ✦ Profile
 
-**Languages & Systems**
-- Java · C++ · Python  
-- Spring Boot · Kafka  
-- Docker · PostgreSQL · Redis · Kubernetes  
+I focus on **backend development, distributed systems, and software architecture**.  
+I build projects to understand systems deeply and improve engineering design skills.
 
 ---
 
-## GitHub Stats
+## ✦ Tech Stack
+
+<table>
+<tr>
+<td width="50%">
+
+### Backend & Systems
+- Java  
+- C++  
+- Python  
+- Spring Boot  
+- Kafka  
+
+</td>
+<td width="50%">
+
+### Infrastructure
+- Docker  
+- PostgreSQL  
+- Redis  
+- Kubernetes  
+
+</td>
+</tr>
+</table>
+
+---
+
+## ✦ Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Woun-dex&show_icons=true&hide_border=true&bg_color=00000000" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Woun-dex&show_icons=true&hide_border=true&bg_color=00000000" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woun-dex&layout=compact&hide_border=true&bg_color=00000000" width="40%"/>
 
@@ -39,7 +58,7 @@ I like building projects to understand how systems work under the hood.
 
 ---
 
-## Contact
+## ✦ Links
 
 <div align="center">
 
