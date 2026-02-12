@@ -1,7 +1,11 @@
 <div align="center">
 
 # Woundex  
-**Software Engineering Student · Systems & AI**
+**Software Engineering Student · Backend & Systems**
+
+<br>
+
+> building systems, learning relentlessly
 
 </div>
 
@@ -9,20 +13,17 @@
 
 ## About
 
-Curious engineering student exploring **distributed systems, backend architecture, and machine learning**.  
-I build projects to learn deeply and experiment with ideas.
+I’m an engineering student focused on **backend development, distributed systems, and software architecture**.  
+I like building projects to understand how systems work under the hood.
 
 ---
 
 ## Tech Stack
 
-**Systems**
-- Java · Spring Boot · Kafka · C++  
+**Languages & Systems**
+- Java · C++ · Python  
+- Spring Boot · Kafka  
 - Docker · PostgreSQL · Redis · Kubernetes  
-
-**AI / ML**
-- Python · PyTorch · TensorFlow  
-- NumPy · Pandas · OpenCV · Hugging Face  
 
 ---
 
@@ -40,6 +41,10 @@ I build projects to learn deeply and experiment with ideas.
 
 ## Contact
 
-- 📧 Email: walidelabad@gmail.com  
-- 🌐 Portfolio: https://your-portfolio.dev  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
+<div align="center">
+
+[Email](mailto:walidelabad@gmail.com) ·  
+[Portfolio](https://your-portfolio.dev) ·  
+[LinkedIn](https://linkedin.com/in/your-profile)
+
+</div>
