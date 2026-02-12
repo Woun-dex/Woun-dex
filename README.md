@@ -7,7 +7,7 @@
 *Building robust systems, learning relentlessly, shipping consistently*
 
 [![Email](https://img.shields.io/badge/Email-walidelabad%40gmail.com-red?style=flat-square&logo=gmail)](mailto:walidelabad@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-your--portfolio.dev-blue?style=flat-square&logo=google-chrome)](https://your-portfolio.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-your--portfolio.dev-blue?style=flat-square&logo=google-chrome)](https://woundex.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
 
 </div>
