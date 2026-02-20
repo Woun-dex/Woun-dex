@@ -6,7 +6,7 @@
 
 *Building robust systems, learning relentlessly, shipping consistently*
 
-[![Email](https://img.shields.io/badge/Email-walidelabad%40gmail.com-red?style=flat-square&logo=gmail)](mailto:walidelabad@gmail.com)
+[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:walidelabad@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-woundex.dev-blue?style=flat-square&logo=google-chrome)](https://woundex.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
 
@@ -30,9 +30,9 @@ My work centers on creating resilient, performant systems that solve real proble
 
 **Backend & Languages**
 ```
-Java          ████████████████████ 
-C++           █████████████████░░░ 
-Python        ██████████████░░░░░░ 
+Java      ████████████████████ 
+Python    █████████████████░░░ 
+c++       ██████████████░░░░░░ 
 ```
 **Frameworks & Tools**
 - Spring Boot (REST APIs, microservices)
