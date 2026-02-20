@@ -90,7 +90,7 @@ I'm always interested in connecting with fellow developers, discussing system de
 
 <div align="center">
 
-**📧 [walidelabad@gmail.com](mailto:walidelabad@gmail.com)** · **🌐 [Portfolio](https://your-portfolio.dev)** · **💼 [LinkedIn](https://linkedin.com/in/your-profile)**
+**📧 [Mail](mailto:walidelabad@gmail.com)** · **🌐 [Portfolio](https://woundex.dev)** · **💼 [LinkedIn](https://linkedin.com/in/your-profile)**
 
 ---
 
