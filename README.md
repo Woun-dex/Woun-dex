@@ -34,8 +34,9 @@ Interested in event-driven architectures, distributed computing, and turning the
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Woun-dex&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=8&rank_icon=github&include_all_commits=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woun-dex&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=8&langs_count=6" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Woun-dex&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Woun-dex&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Woun-dex&theme=github_dark" width="32%"/>
 
 <img src="https://streak-stats.demolab.com/?user=Woun-dex&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9&border_radius=8" width="60%"/>
 
