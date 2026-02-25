@@ -1,98 +1,60 @@
 <div align="center">
 
-# 👋 Woundex
+# Woundex
 
 **Software Engineering Student** · Backend & Systems Architecture
 
-*Building robust systems, learning relentlessly, shipping consistently*
-
 [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:walidelabad@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-woundex.dev-blue?style=flat-square&logo=google-chrome)](https://woundex.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## About Me
 
-I'm a software engineering student focused on **backend development, distributed systems, and scalable architecture**. I believe in learning by building—every project is an opportunity to understand systems more deeply and refine my engineering craft.
+Software engineering student focused on backend development, distributed systems, and scalable architecture. I learn by building — every project is a chance to understand systems more deeply.
 
-My work centers on creating resilient, performant systems that solve real problems. I'm particularly interested in distributed computing, event-driven architectures, and the intersection of theory and practical implementation.
-
----
-
-## 🛠️ Tech Stack
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Backend & Languages**
-```
-Java      ████████████████████ 
-Python    █████████████████░░░ 
-c++       ██████████████░░░░░░ 
-```
-**Frameworks & Tools**
-- Spring Boot (REST APIs, microservices)
-- Kafka (event streaming)
-- JUnit & Mockito (testing)
-
-</td>
-<td width="50%" valign="top">
-
-**Infrastructure & Data**
-```
-Docker        ████████████████████
-PostgreSQL    ██████████████████░░
-Redis         ███████████████░░░░░
-Kubernetes    ████████████░░░░░░░░
-```
-**Also Working With**
-- Nginx (reverse proxy, load balancing)
-- Git & GitHub Actions (CI/CD)
-- Linux (Ubuntu, bash scripting)
-
-</td>
-</tr>
-</table>
+Interested in event-driven architectures, distributed computing, and turning theory into working software.
 
 ---
 
-## 📊 GitHub Activity
+## Tech Stack
+
+**Languages** · Java · Python · C++
+
+**Backend** · Spring Boot · Kafka · JUnit & Mockito
+
+**Infrastructure** · Docker · PostgreSQL · Redis · Kubernetes · Nginx · GitHub Actions · Linux
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Woun-dex&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=8" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woun-dex&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=8&langs_count=6" width="49%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Woun-dex&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=8&rank_icon=github&include_all_commits=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woun-dex&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=8&langs_count=6" width="49%"/>
 
-</div>
+<img src="https://streak-stats.demolab.com/?user=Woun-dex&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9&border_radius=8" width="60%"/>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Woun-dex&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9&border_radius=8" width="60%" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
-- 🔨 Building event-driven microservices with Spring Boot & Kafka
-- 📚 Deepening understanding of distributed systems design patterns
-- 🏗️ Exploring container orchestration with Kubernetes
-- 💡 Contributing to open source projects
+- Building event-driven microservices with Spring Boot & Kafka
+- Studying distributed systems design patterns
+- Exploring Kubernetes for container orchestration
+- Contributing to open source
 
 ---
-
-## 💬 Let's Connect
-
-I'm always interested in connecting with fellow developers, discussing system design, or collaborating on interesting projects. Feel free to reach out!
 
 <div align="center">
 
-**📧 [Mail](mailto:walidelabad@gmail.com)** · **🌐 [Portfolio](https://woundex.dev)** · **💼 [LinkedIn](https://linkedin.com/in/your-profile)**
-
----
+📧 [walidelabad@gmail.com](mailto:walidelabad@gmail.com) · 🌐 [woundex.dev](https://woundex.dev) · 💼 [LinkedIn](https://linkedin.com/in/your-profile)
 
 *"Code is read more than it's written. Make it count."*
 
