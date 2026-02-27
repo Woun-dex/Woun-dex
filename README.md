@@ -24,7 +24,7 @@ Interested in event-driven architectures, distributed computing, and turning the
 
 **Languages** · Java · Python · C++
 
-**Backend** · Spring Boot · Kafka · JUnit & Mockito
+**Backend** · Spring Boot · Kafka 
 
 **Infrastructure** · Docker · PostgreSQL · Redis · Kubernetes · Nginx · GitHub Actions · Linux
 
@@ -48,8 +48,7 @@ Interested in event-driven architectures, distributed computing, and turning the
 
 - Building event-driven microservices with Spring Boot & Kafka
 - Studying distributed systems design patterns
-- Exploring Kubernetes for container orchestration
-- Contributing to open source
+
 
 ---
 
