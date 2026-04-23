@@ -54,7 +54,7 @@ Interested in event-driven architectures, distributed computing, and turning the
 
 <div align="center">
 
-📧 [walidelabad@gmail.com](mailto:walidelabad@gmail.com) · 🌐 [woundex.dev](https://woundex.dev) · 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+🌐 [woundex.dev](https://woundex.dev) · 💼 [LinkedIn](https://linkedin.com/in/your-profile)
 
 *"Code is read more than it's written. Make it count."*
 
