@@ -22,9 +22,9 @@ Interested in event-driven architectures, distributed computing, and turning the
 
 ## Tech Stack
 
-**Languages** · Java · Python · C++
+**Languages** · Java · Python · C++ . TypeScript
 
-**Backend** · Spring Boot · Kafka 
+**Backend** · Spring Boot · Kafka  . FASTAPI
 
 **Infrastructure** · Docker · PostgreSQL · Redis · Kubernetes · Nginx · GitHub Actions · Linux
 
